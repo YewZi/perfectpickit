@@ -1,0 +1,282 @@
+//### ANGELIC ###
+//[name] == ringmail && [quality] == set // mantle
+[name] == sabre && [quality] == set // sickle
+[type] == ring && [quality] == set # [maxhp] == 20 // halo
+[type] == amulet && [quality] == set # [itemlightradius] == 3 && [itemdamagetomana] == 20 // wings
+
+//### ARCANNA ###
+[type] == amulet && [quality] == set # [maxmana] == 15 // sign
+//[name] == skullcap && [quality] == set // arcanna's head
+[name] == skullcap && [quality] == set # [defense] == 11 // p head
+//[name] == lightplate && [quality] == set // arcanna's flesh
+[name] == lightplate && [quality] == set # [defense] == 107 // p flesh
+[name] == warstaff && [quality] == set // deathwand
+
+//### ARCTIC ###
+//[name] == quiltedarmor && [quality] == set // furs
+[name] == quiltedarmor && [quality] == set # [defense] == 51 // p furs
+//[name] == lightbelt && [quality] == set // binding
+//[name] == lightgauntlets && [quality] == set # [maxhp] == 20 && [ias] == 10 // mitts
+[name] == lightgauntlets && [quality] == set # [maxhp] == 20 && [ias] == 10  && [defense] == 11 // p mitts
+//[name] == shortwarbow && [quality] == set // horn
+
+//### BERSERKER ###
+//[name] == helm && [quality] == set // headgear
+[name] == helm && [quality] == set # [defense] == 33 // p headgear
+//[name] == splintmail && [quality] == set // hauberk
+[name] == splintmail && [quality] == set # [defense] == 95 // p hauberk
+[name] == doubleaxe && [quality] == set // hatchet
+
+//### CATHAN ###
+//[type] == ring && [quality] == set # [lifeleech] == 6 && [normaldamagereduction] == 2 // seal
+[type] == amulet && [quality] == set # [fhr] == 10 && [lightmaxdam] == 5 // sigil
+//[name] == chainmail && [quality] == set // mesh
+[name] == chainmail && [quality] == set # [defense] == 90 // p mesh
+//[name] == mask && [quality] == set // visage
+[name] == mask && [quality] == set # [defense] == 27 // visage
+
+//### CIVERB ###
+//[name] == grandscepter && [quality] == set // cudgel
+[name] == grandscepter && [quality] == set # [maxdamage] == 23 // p cudgel
+[type] == amulet && [quality] == set # [manarecovery] == 40 && [hpregen] == 4 // icon
+//[name] == largeshield && [quality] == set // ward
+[name] == largeshield && [quality] == set # [defense] == 29 // p ward
+
+//### CLEGLAW ###
+//[name] == longsword && [quality] == set // tooth
+//[name] == chaingloves && [quality] == set // pincers
+[name] == chaingloves && [quality] == set # [defense] == 9 // p pincers
+//[name] == smallshield && [quality] == set // claw
+[name] == smallshield && [quality] == set # [defense] == 27 // p claw
+
+//### DEATH ###
+[name] == warsword && [quality] == set // touch
+//[name] == leathergloves && [quality] == set // hand
+[name] == leathergloves && [quality] == set # [defense] == 3 // p hand
+[name] == sash && [quality] == set // guard
+
+//### HSARU ###
+//[name] == buckler && [quality] == set // iron fist
+[name] == buckler && [quality] == set # [defense] == 6 // p iron fist
+//[name] == belt && [quality] == set # [coldresist] == 20 && [maxhp] == 20 // iron stay
+//[name] == chainboots && [quality] == set // iron heel
+[name] == chainboots && [quality] == set # [defense] == 9 // p iron heel
+
+//### INFERNAL ###
+//[name] == cap && [quality] == set # [fireresist] == 10 // cranium
+[name] == cap && [quality] == set # [fireresist] == 10 && [defense] == 5 // p cranium
+[name] == grimwand && [quality] == set // touch
+//[name] == heavybelt && [quality] == set # [maxhp] == 20 && [enhanceddefense] == 25 // sign
+
+//### IRATHA ###
+[name] == heavybelt && [quality] == set # [mindamage] == 5 // cord
+//[name] == crown && [quality] == set # [fireresist] == 30 && [lightresist] == 30 // coil
+[name] == crown && [quality] == set # [fireresist] == 30 && [lightresist] == 30 && [defense] == 45// p coil
+[type] == amulet && [quality] == set # [poisonresist] == 30 && [poisonlength] == -75 // collar
+//[name] == lightgauntlets && [quality] == set # [coldresist] == 30 // cuff
+[name] == lightgauntlets && [quality] == set # [coldresist] == 30 && [defense] == 11 // p cuff
+
+//### ISENHART ###
+//[name] == broadsword && [quality] == set // lightbrand
+//[name] == fullhelm && [quality] == set // horns
+[name] == fullhelm && [quality] == set # [defense] == 26 // p horns
+//[name] == breastplate && [quality] == set // case
+[name] == breastplate && [quality] == set # [defense] == 108 // p case
+//[name] == gothicshield && [quality] == set // parry
+[name] == gothicshield && [quality] == set # [defense] == 75 // p parry
+
+//### MILABREGA ###
+//[name] == kiteshield && [quality] == set // orb
+//[name] == kiteshield && [quality] == set # [defense] == 44 // p orb
+[name] == ancientarmor && [quality] == set # [defense] == 234 // robe
+//[name] == warscepter && [quality] == set // rod
+//[name] == crown && [quality] == set # [maxhp] == 15 && [maxmana] == 15 // diadem
+[name] == crown && [quality] == set # [maxhp] == 15 && [maxmana] == 15 && [defense] == 45 // p diadem
+
+//### SIGON ###
+//[name] == greathelm && [quality] == set // visor
+[name] == greathelm && [quality] == set # [defense] == 160 // p visor
+//[name] == gothicplate && [quality] == set // shelter
+[name] == gothicplate && [quality] == set # [defense] == 170 // p shelter
+//[name] == greaves && [quality] == set // sigon's sabot
+[name] == greaves && [quality] == set # [defense] == 15 // p sabot
+//[name] == towershield && [quality] == set // guard
+[name] == towershield && [quality] == set # [defense] == 25 // p guard
+//[name] == platedbelt && [quality] == set // warp
+[name] == platedbelt && [quality] == set # [defense] == 11 // p warp
+//[name] == gauntlets && [quality] == set // gage
+[name] == gauntlets && [quality] == set # [defense] == 15 // p gage
+
+//### TANCRED ###
+//[name] == bonehelm && [quality] == set // skull
+[name] == bonehelm && [quality] == set # [defense] == 36 // p skull
+//[name] == fullplatemail && [quality] == set // spine
+[name] == fullplatemail && [quality] == set # [defense] == 161 // p spine
+//[name] == boots && [quality] == set # [staminarecoverybonus] == 25 && [dexterity] == 10 // hobnails
+[name] == boots && [quality] == set # [staminarecoverybonus] == 25 && [dexterity] == 10 && [defense] == 3 // p hobnails
+//[name] == militarypick && [quality] == set // crowbill
+[type] == amulet && [quality] == set # [magicdamagereduction] == 1 && [normaldamagereduction] == 2 // weird
+
+//### VIDALA ###
+[type] == amulet && [quality] == set # [coldresist] == 20 && [maxmana] == 15 // snare
+//[name] == longbattlebow && [quality] == set // barb
+//[name] == leatherarmor && [quality] == set // ambush
+[name] == leatherarmor && [quality] == set # [defense] == 67 // p ambush
+//[name] == lightplatedboots && [quality] == set // fetlock
+[name] == lightplatedboots && [quality] == set # [defense] == 11 // p fetlock
+
+//### ALDUR ###
+//[name] == hunter'sguise && [quality] == set // stony gaze
+[name] == hunter'sguise && [quality] == set # [coldresist] == 50 && [defense] == 171 // p stony gaze
+//[name] == battleboots && [quality] == set // advance
+[name] == battleboots && [quality] == set # [fireresist] == 50 && [defense] == 47 // p advance
+//[name] == shadowplate && [quality] == set // deception
+[name] == shadowplate && [quality] == set # [lightresist] == 50 && [defense] == 857 // p deception
+//[name] == jaggedstar && [quality] == set // rhythm
+[name] == jaggedstar && [quality] == set # [sockets] == 3 // p rhythm
+
+//### BULKATHO ###
+[name] == colossusblade && [quality] == set // sacred charge
+[name] == mythicalsword && [quality] == set // tribal guardian
+
+//### COWKING ###
+[name] == warhat && [quality] == set //  horns
+//[name] == warhat && [quality] == set # [defense] == 128 // p horns
+[name] == studdedleather && [quality] == set // hide
+//[name] == studdedleather && [quality] == set # [defense] == 57 // p hide
+[name] == heavyboots && [quality] == set # [dexterity] == 20 && [itemmagicbonus] == 25 // hooves
+//[name] == heavyboots && [quality] == set # [dexterity] == 20 && [itemmagicbonus] == 25 && [defense] == 41 // p hooves
+
+//### DISCIPLE ###
+[type] == amulet && [quality] == set # [itemallskills] == 1 && [coldresist] == 18 // telling of beads
+//[name] == bramblemitts && [quality] == set // laying of hands
+[name] == bramblemitts && [quality] == set # [defense] == 87 // p laying of hands
+//[name] == duskshroud && [quality] == set // dark adherent
+[name] == duskshroud && [quality] == set # [defense] == 882 // p dark adherent
+//[name] == demonhideboots && [quality] == set // rite of passage
+[name] == demonhideboots && [quality] == set # [maxstamina] == 25 && [defense] == 60 // p rite of passage
+//[name] == mithrilcoil && [quality] == set // credendum
+[name] == mithrilcoil && [quality] == set # [defense] == 115 // p credendum
+
+//### GRISWOLD ###
+//[name] == ornateplate && [quality] == set // heart
+[name] == ornateplate && [quality] == set # [defense] == 950 // p heart
+//[name] == corona && [quality] == set // valor
+//[name] == corona && [quality] == set # [enhanceddefense] >= 55 // q valor
+[name] == corona && [quality] == set # [itemmagicbonus] == 30 && [defense] == 290 // p valor
+//[name] == caduceus && [quality] == set // redemption
+//[name] == caduceus && [quality] == set # [sockets] == 3 && [enhanceddamage] >= 200 // q redemption
+[name] == caduceus && [quality] == set # [sockets] == 3 && [enhanceddamage] == 240 // p redemption
+//[name] == vortexshield && [quality] == set // honor
+//[name] == vortexshield && [quality] == set # [defense] >= 300 // q honor
+[name] == vortexshield && [quality] == set # [defense] == 333 // p honor
+
+//### HEAVENSBRETHREN ###
+//[name] == cuirass && [quality] == set // haemosu's adamant
+[name] == cuirass && [quality] == set # [defense] == 702 // p haemosu's adamant
+[name] == reinforcedmace && [quality] == set // dangoon's teaching
+//[name] == ward && [quality] == set // taebaek's glory
+[name] == ward && [quality] == set # [defense] == 220 // p taebaek's glory
+//[name] == spiredhelm && [quality] == set // ondal's almighty
+[name] == spiredhelm && [quality] == set # [defense] == 209 // p ondal's almighty
+
+//### HWANIN ###
+//[name] == grandcrown && [quality] == set // splendor
+[name] == grandcrown && [quality] == set # [defense] == 228 // p splendor
+[name] == bill && [quality] == set // justice
+//[name] == tigulatedmail && [quality] == set // refuge
+[name] == tigulatedmail && [quality] == set  # [defense] == 390 // p refuge
+[name] == belt && [quality] == set # [lightmindam] == 3 && [lightmaxdam] == 33 // hwanin's blessing
+
+//### IMMORTALKING ###
+//[name] == warbelt && [quality] == set // detail
+[name] == warbelt && [quality] == set # [defense] == 89 // p detail
+//[name] == avengerguard && [quality] == set // will
+[name] == avengerguard && [quality] == set # [itemmagicbonus] == 40 && [defense] == 175 // p will
+//[name] == ogremaul && [quality] == set // stone crusher
+[name] == ogremaul && [quality] == set # [itemcrushingblow] == 40 // p stone crusher
+[name] == sacredarmor && [quality] == set // soul cage
+//[name] == sacredarmor && [quality] == set # [defense] == 1001 // p soul cage
+//[name] == wargauntlets && [quality] == set // forge
+[name] == wargauntlets && [quality] == set # [defense] == 118 // p forge
+//[name] == warboots && [quality] == set // pillar
+[name] == warboots && [quality] == set # [defense] == 128 // p pillar
+
+//### MAVINA ###
+//[name] == diadem && [quality] == set // true sight
+[name] == diadem && [quality] == set # [defense] == 210 // p true sight
+[name] == grandmatronbow && [quality] == set // caster
+//[name] == krakenshell && [quality] == set // embrace
+//[name] == krakenshell && [quality] == set # [magicdamagereduction] == 12 // q embrace
+[name] == krakenshell && [quality] == set # [defense] == 523 // p embrace (must verify 12 mdr by hand after ID p base def for actual perfect)
+// [name] == battlegauntlets && [quality] == set // icy clutch
+[name] == battlegauntlets && [quality] == set # [defense] == 97 // p icy clutch
+//[name] == sharkskinbelt && [quality] == set // tenet
+[name] == sharkskinbelt && [quality] == set # [defense] == 86 // p tenet
+
+//### NATALYA ###
+//[name] == grimhelm && [quality] == set // totem
+[name] == grimhelm && [quality] == set # [fireresist] == 20 && [dexterity] == 20 && [strength] == 20 && [defense] == 300 // p totem
+[name] == scissorssuwayyah && [quality] == set // mark
+//[name] == loricatedmail && [quality] == set // shadow
+[name] == loricatedmail && [quality] == set # [sockets] == 3 && [defense] == 721 // p shadow
+//[name] == meshboots && [quality] == set // soul
+[name] == meshboots && [quality] == set # [coldresist] == 25 && [lightresist] == 25 && [defense] == 169 // p soul
+
+//### NAJ ###
+//[name] == circlet && [quality] == set // circlet
+[name] == circlet && [quality] == set # [defense] == 105 // p circlet
+//[name] == hellforgeplate && [quality] == set // light plate
+[name] == hellforgeplate && [quality] == set # [defense] == 830 // p light plate
+[name] == elderstaff && [quality] == set // puzzler
+
+//### ORPHAN ###
+//[name] == wingedhelm && [quality] == set // face
+[name] == wingedhelm && [quality] == set # [defense] == 217 // p face
+//[name] == roundshield && [quality] == set // guard
+[name] == roundshield && [quality] == set # [defense] ==  154 // p guard
+//[name] == sharkskingloves && [quality] == set // skin
+[name] == sharkskingloves && [quality] == set # [defense] == 60 // p skin
+//[name] == battlebelt && [quality] == set // pride
+[name] == battlebelt && [quality] == set # [defense] ==  75 // p pride
+
+//### SANDER ###
+// [name] == cap && [quality] == set # [itemmagicbonus] == 35 // paragon
+[name] == cap && [quality] == set # [itemmagicbonus] == 35 && [defense] == 104 // p paragon
+//[name] == bonewand && [quality] == set // sander's superstition
+//[name] == heavygloves && [quality] == set # [maxhp] == 40 // taboo
+[name] == heavygloves && [quality] == set # [maxhp] == 40 && [defense] == 31 // p taboo
+//[name] == heavyboots && [quality] == set # [dexterity] == 10 && [strength] == 5 // riprap
+[name] == heavyboots && [quality] == set # [dexterity] == 10 && [strength] == 5 && [defense] == 6 // p riprap
+
+//### SAZABI ###
+//[name] == basinet && [quality] == set // mental sheath
+[name] == basinet && [quality] == set # [lightresist] == 20 && [fireresist] == 20 && [defense] == 184 // p mental sheath
+[name] == crypticsword && [quality] == set // cobalt redeemer
+//[name] == balrogskin && [quality] == set // ghost liberator
+[name] == balrogskin && [quality] == set # [maxhp] == 75 && [defense] == 917 // p ghost liberator
+
+//### TALRASHA ###
+//[name] == swirlingcrystal && [quality] == set // lidless eye
+[name] == swirlingcrystal && [quality] == set # [skilllightningmastery] == 2 && [skillcoldmastery] == 2 && [skillfiremastery] == 2 // p lidless eye
+//[name] == deathmask && [quality] == set // horadric crest
+[name] == deathmask && [quality] == set # [defense] == 131 // p horadric crest
+//[name] == lacqueredplate && [quality] == set // guardianship
+[name] == lacqueredplate && [quality] == set # [defense] >= 931 // q guardianship
+//[name] == lacqueredplate && [quality] == set # [defense] == 941 // p guardianship
+[type] == amulet && [quality] == set # [sorceressskills] == 2 // adjucation
+//[name] == meshbelt && [quality] == set // fine-spun cloth
+//[name] == meshbelt && [quality] == set # [itemmagicbonus] == 15 // q fine-spun cloth
+[name] == meshbelt && [quality] == set # [itemmagicbonus] == 15 && [defense] == 40 // p fine-spun cloth
+
+//### TRANGOUL ###
+//[name] == bonevisage && [quality] == set // guise
+[name] == bonevisage && [quality] == set # [defense] == 257 // p guise
+[name] == chaosarmor && [quality] == set // scales
+//[name] == chaosarmor && [quality] == set # [defense] == 857 // p scales
+[name] == cantortrophy && [quality] == set // wing
+//[name] == cantortrophy && [quality] == set # [fireresist] == 45 && [defense] == 189 // p wing
+//[name] == trollbelt && [quality] == set // girth
+[name] == trollbelt && [quality] == set # [maxmana] == 50 && [defense] == 166 // p girth
+//[name] == heavybracers && [quality] == set // claws
+[name] == heavybracers && [quality] == set # [defense] == 74 // p claws
